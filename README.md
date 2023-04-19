@@ -4,7 +4,7 @@
 
 The dataset contains mpg results for 50 prototype MechaCars. Each vehicle had different lengths, weight, spoiler angle, ground clearance, mpg, and AWD or not.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/MechaCar_Statistical_Analysis/blob/main/Images/linear_regression.PNG)
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -20,25 +20,25 @@ The model has an r-squared value of 0.7149 which is about 71% of all mpg predict
 
 ## Summary Statistics on Suspension Coils
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.PNG)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.PNG)
 
 From the summary variance the suspension coils are not exceeding the 100 PSI as the variance is at 62.29. But looking at the individual lots, lot 3 shows the highest variance at 170.28.
 
 
 ## T-Tests on Suspension Coils
 - The first t-test had a p-value of .06. This would not be sufficient evidence to reject the hypothesis.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/MechaCar_Statistical_Analysis/blob/main/Images/inital_t_test.PNG)
 
 - The t-test for Lot1 had a p-value of 1. This would not be sufficient evidence to reject the hypothesis.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot1.PNG)
 
 - The t-test for Lot2 had a p-value of 0.60. This would not be sufficient evidence to reject the hypothesis.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot2.PNG)
 
 - The t-test for Lot3 had a p-value of 0.04. This would be sufficient evidence to reject the hypothesis.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jovalle2/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot3.PNG)
 
 ## Study Design: MechaCar vs Competition
 
